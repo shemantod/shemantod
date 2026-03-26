@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=30\&pause=1000\&color=1A84F7\&width=900\&lines=Shemanto+Roy;Senior+Backend+Engineer;ASP.NET+Core+%7C+Angular;Distributed+Systems+%7C+Microservices;Building+Scalable+Systems+at+Scale;%F0%9F%92%A4+Fun+fact+%F0%9F%92%A4+Problem+Solver)](https://git.io/typing-svg)
 
-<!-- <img src="/assets/images/cover.png"/> -->
+<!-- <img src="/assets/images/cover.png"/> --> 
 
 ---
 
