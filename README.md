@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=28\&pause=1000\&color=0E75B6\&width=900\&lines=Shemanto+Roy;Senior+Backend+Engineer;ASP.NET+Core+%7C+Angular;Distributed+Systems+%7C+Microservices;Building+Scalable+Systems+at+Scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=30\&pause=1000\&color=1A84F7\&width=900\&lines=Shemanto+Roy;Senior+Backend+Engineer;ASP.NET+Core+%7C+Angular;Distributed+Systems+%7C+Microservices;Building+Scalable+Systems+at+Scale)](https://git.io/typing-svg)
 
-<img src="/assets/cover.png"/>
+<img src="/assets/images/cover.png"/>
 
 ---
 
@@ -125,25 +125,15 @@ To grow into a **Staff Engineer / Solution Architect**, leading the design of **
 
 ---
 
-## 📫 Contact
+## 📫 Reach Me Out
 
-* 💼 LinkedIn: https://www.linkedin.com/in/shemantod
-* 🐙 GitHub: https://github.com/shemantod
-* 📧 Email: [shemantoroy5@gmail.com](mailto:shemantoroy5@gmail.com)
+* 💼 **LinkedIn**: https://www.linkedin.com/in/shemantod
+* 🐙 **GitHub**: https://github.com/shemantod
+* 🦊 **GitLab**: https://gitlab.com/shemantod
+* 📄 **Resume**: https://drive.google.com/file/d/1XVRTuYF8NZnNf3mBixfq2YM0SKq-6ytA/view?usp=sharing
+* 𝕏 **Twitter**: https://twitter.com/shemantod
+* ✉️ **Email**: [shemantoroy5@gmail.com](mailto:shemantoroy5@gmail.com)
 
----
-
-### 📫 Reach Me Out
-
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][linkedin]
-[![Twitter](https://img.shields.io:/twitter/follow/shemantod?style=social)][twitter]
-
-[linkedin]: https://www.linkedin.com/in/shemantod/
-[github]: https://github.com/shemantod
-[gitlab]: https://gitlab.com/shemantod
-[resume]: https://drive.google.com/file/d/1XVRTuYF8NZnNf3mBixfq2YM0SKq-6ytA/view?usp=sharing
-[medium]: https://www.quora.com/profile/Shemanto-Roy
-[twitter]: https://twitter.com/shemantod
 ---
 
 ## 📊 GitHub Stats
